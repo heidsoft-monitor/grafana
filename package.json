@@ -71,6 +71,7 @@
     "karma-sinon": "^1.0.5",
     "lodash": "^4.17.2",
     "mousetrap": "^1.6.0",
+    "phantomjs-prebuilt": "^2.1.14",
     "remarkable": "^1.7.1",
     "sinon": "1.17.6",
     "systemjs-builder": "^0.15.34",
